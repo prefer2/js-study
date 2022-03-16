@@ -8,4 +8,4 @@
 - MDN (https://developer.mozilla.org/en-US/)
 - 자바스크립트 Info (https://ko.javascript.info/)
 
-![javascript map](https://user-images.githubusercontent.com/67692759/158283954-a43470d6-7352-4025-947c-2aaf26a11ac6.png)
+![javascript map](https://user-images.githubusercontent.com/67692759/158602166-ed1d9b7f-15bb-4fe4-b60e-d93e9240b5b3.png)
