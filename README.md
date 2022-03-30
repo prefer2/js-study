@@ -8,4 +8,4 @@
 - MDN (https://developer.mozilla.org/en-US/)
 - 자바스크립트 Info (https://ko.javascript.info/)
 
-![javascript map](https://user-images.githubusercontent.com/67692759/158602166-ed1d9b7f-15bb-4fe4-b60e-d93e9240b5b3.png)
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVOBWTlCk=/?moveToViewport=-1419,-925,2583,1461" frameBorder="0" scrolling="no" allowFullScreen></iframe>
